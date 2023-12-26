@@ -1,9 +1,11 @@
 # Hi there, I'm Sofia Lipskaia and I'm an analyst👋
 
 Key skills:
+
 SQL, Python, Pandas, Seaborn, Plotly, Numpy, Matplotlib, SciPy, BI, Tableau, MS Power BI, Jira, Confluence
 
 Databases:
+
 PostgreSQL, MySQL
 
 <!--
